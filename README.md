@@ -2,7 +2,7 @@
 haversine implemented in rust
 
 Add haversine dependency to your project Cargo.toml file:
-```json
+```toml
 [dependencies]
 haversine = "0.2.1"
 ```
